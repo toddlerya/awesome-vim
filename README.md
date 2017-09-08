@@ -1,2 +1,35 @@
 # awesome-vim
-针对Pythoner的Vim配置
+Pythoner's vim
+
+
+# Install
+
+#### 1. backup your old .vimrc if it is necessary
+
+```
+cp ~/.vimrc ~/.vimrc_bak
+```
+
+#### 2. just get the file
+
+recommend
+```
+curl https://raw.githubusercontent.com/toddlerya/awesome-vim/vimrc > ~/.vimrc
+```
+or  use git
+
+```
+git clone https://github.com/toddlerya/awesome-vim.git
+ln -s awesome-vim/vimrc ~/.vimrc
+```
+
+#### 3. Done, enjoy it
+
+------------------------
+------------------------
+
+toddlerya
+
+Email: toddlerya@qq.com
+
+Github: https://github.com/toddlerya
