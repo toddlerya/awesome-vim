@@ -147,14 +147,14 @@ function! AutoSetFileHead()
     " .sh
     if &filetype == 'sh'
         call setline(1, "\#!/bin/bash")
-        call append(1, "\# author: toddlerya")
+        call append(1, "\# author: yourname")
     endif
 
     " python
     if &filetype == 'python'
         call setline(1, "\#!/usr/bin/env python")
         call append(1, "\# encoding: utf-8")
-        call append(2, "\# author: toddlerya")
+        call append(2, "\# author: yourname")
     endif
 
     normal G
