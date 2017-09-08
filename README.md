@@ -14,11 +14,6 @@ cp ~/.vimrc ~/.vimrc_bak
 
 recommend
 ```
-curl https://raw.githubusercontent.com/toddlerya/awesome-vim/vimrc > ~/.vimrc
-```
-or  use git
-
-```
 git clone https://github.com/toddlerya/awesome-vim.git
 ln -s awesome-vim/vimrc ~/.vimrc
 ```
