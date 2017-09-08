@@ -1,13 +1,10 @@
 "=====================================
-" Author:  toddlerya
-" Email: toddlerya@qq.com
-" Last_modify: 2017-09-08
+" ProjectLink: https://github.com/toddlerya/awesome-vim
+" Author:  toddlerya                                 
+" Email: toddlerya@qq.com                            
+" Last_modify: 2017-09-08                            
 " Reference: https://github.com/wklken/vim-for-server 
-" Usage: 
-" Step1: clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
-" Step2: cp ~/.vimrc ~/.vimrc_bak
-" Step3: curl https://raw.githubusercontent.com/toddlerya/awesome-vim/vimrc > ~/.vimrc
-" Step4: open vim, type ':PluginInstall', then type 'enter', Wait a moment, enjoy it!
+" ReadMe: README.md
 "=====================================
 
 
